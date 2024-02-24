@@ -1,4 +1,4 @@
-﻿IMPORT $;
+IMPORT $;
 HMK := $.File_AllData;
 
 OUTPUT(HMK.unemp_ratesDS,NAMED('US_UnempByMonth'));
